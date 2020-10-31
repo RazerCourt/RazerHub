@@ -14,8 +14,8 @@ if ($a === "9081DelndjadnadsadaLODRAMAdhwdlavodramadnajdaudy3g32sandrine") {
    echo "1E";
     return;
   }
-$fh = fopen('whitelisted.lua', 'a'); 
-fwrite($fh, $key."\n");
+$fh = fopen('whitelistedd.lua', 'a'); 
+fwrite($fh, $b."\n");
 }
 else
 {
