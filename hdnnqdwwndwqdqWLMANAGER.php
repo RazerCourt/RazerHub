@@ -10,6 +10,10 @@ if ($a === "9081DelndjadnadsadaLODRAMAdhwdlavodramadnajdaudy3g32sandrine") {
     echo "include";
    return; 
   }
+  if($key === "") {
+   echo "1E";
+    return;
+  }
 $fh = fopen('whitelisted.lua', 'a'); 
 fwrite($fh, $key."\n");
 }
