@@ -5,8 +5,9 @@ if(!isset($a)) {
 return; 
 }
 if ($a === "9081DelndjadnadsadaLODRAMAdhwdlavodramadnajdaudy3g32sandrine") {
-  echo "hi..."
+  echo "hi...";
   if(!isset($key)) {
+    echo "include";
    return; 
   }
 $fh = fopen('whitelisted.lua', 'a'); 
