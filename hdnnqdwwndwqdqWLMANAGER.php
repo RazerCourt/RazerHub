@@ -6,11 +6,11 @@ return;
 }
 if ($a === "9081DelndjadnadsadaLODRAMAdhwdlavodramadnajdaudy3g32sandrine") {
   echo "hi...";
-  if(!isset($key)) {
+  if(!isset($b)) {
     echo "include";
    return; 
   }
-  if($key === "") {
+  if($b === "") {
    echo "1E";
     return;
   }
